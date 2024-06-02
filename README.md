@@ -1,4 +1,4 @@
-<h1>Make Your Smart Home Smarter with Infineon Sensors and Generative AI</h1>
+<h1>SMART FARM</h1>
 # SMART FARM
 
 Welcome to SMART FARM - your comprehensive web application designed to revolutionize farm management. Our platform is tailored to support agronomists, prospective investors, and large plantation owners by providing vital information necessary for maintaining farm health and maximizing productivity.
