@@ -1,9 +1,12 @@
 <h1>SMART FARM</h1>
 
+### Hackathon Material
+- **[Project Slides](https://docs.google.com/presentation/d/1_cU-8dVBy1Oz_boJ4gmG538Owrfq4UID/edit?usp=sharing&ouid=114661143489025436638&rtpof=true&sd=true)**
+
 Welcome to SMART FARM - your comprehensive web application designed to revolutionize farm management. Our platform is tailored to support agronomists, prospective investors, and large plantation owners by providing vital information necessary for maintaining farm health and maximizing productivity.
 
 ### Description
-Our web application allows agronomists or large plantation owners to monitor their fields using CO2, Temperature and Light sensors. The data gathered from the sensors will be fed to the AI Model so it can generate a report accordingly. If the AI Model detects that the environment in the closed farm has been pretty unhealthy recently, it will suggest that you scan the plants because there is a possibility that the plants are in the early stages of some disease due to the bad environment. Our app offers the option to scan plants and generate a report about the plant's disease and recommendations on how to further prevent the spreading of the disease. 
+Our web application allows agronomists or large plantation owners to monitor their fields using CO2, Temperature and Light sensors. The data gathered from the sensors will be fed to the AI Model so it can generate a report accordingly. If the AI Model detects that the environment in the closed farm has been pretty unhealthy recently, it will suggest that you scan the plants because there is a possibility that the plants are in the early stages of some disease due to the bad environment. Our app offers the option to scan plants and generate a report about the plant's disease and recommendations on how to further prevent the spreading of the disease. The image scanning is done using CNN Algorithm and a model trained on a large dataset. 
 
 ## Key Features
 
@@ -65,8 +68,8 @@ pip install Pillow
 </ul>
 
 <h4>Running the Example</h4>
-<p>Download the LLAMA model and type the following command to run the example:</p>
-<pre><code>jupyter notebook llama_example.ipynb
+<p>After you have created the virtual environment, you can type the following command in the terminal:</p>
+<pre><code>python app.py
 </code></pre>
 
 <h3>Useful Links</h3>
@@ -81,14 +84,6 @@ pip install Pillow
   <li><a href="link">Radar sensor</a></li>
   <li><a href="link">Stereo Microphone</a></li>
 </ul>
-
+<h6>For any additional questions, please feel free to ask us via e-mail gentinuhiu5@gmail.com</h6>
 <h3>Smart Farm</h3>
-
-
-<h3>How to Reach Us?</h3>
-<p>Open an issue in this repository or connect with us onsite.</p>
-<h3> Support and Feedback</h3>
-
-We're committed to continually improving SMART FARM to meet the evolving needs of our users. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to our dedicated support team.
-
-Thank you for choosing SMART FARM. Let's embark on a journey towards smarter, more sustainable farming practices together!
+<h3>Thank you for your attention</h3>
