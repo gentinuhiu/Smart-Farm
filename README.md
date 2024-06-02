@@ -34,11 +34,7 @@ Simply sign up for an account and start exploring the features tailored to meet 
 
 <h2>Submission Details</h2>
 
-<h3>Hackathon Material</h3>
-<ul>
-  <li><strong>Topic Introduction Slides (Friday)</strong></li>
-  <li><strong>Challenge Introduction Slides (Saturday)</strong></li>
-</ul>
+
 
 <h3>Running the Example</h3>
 
@@ -99,11 +95,8 @@ cd hackathon/examples
   <li><a href="link">Stereo Microphone</a></li>
 </ul>
 
-<h3>Infineon Team</h3>
-<ul>
-  <li><strong>Eric</strong> (Embedded Systems Engineer)</li>
-  <li><strong>Julian</strong> (Staff Embedded Systems Engineer)</li>
-</ul>
+<h3>Smart Farm</h3>
+
 
 <h3>How to Reach Us?</h3>
 <p>Open an issue in this repository or connect with us onsite.</p>
