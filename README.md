@@ -105,9 +105,9 @@ cd hackathon/examples
   <li><strong>Julian</strong> (Staff Embedded Systems Engineer)</li>
 </ul>
 
-<h4>How to Reach Us?</h4>
+<h3>How to Reach Us?</h3>
 <p>Open an issue in this repository or connect with us onsite.</p>
-<h4> Support and Feedback</h4>
+<h3> Support and Feedback</h3>
 
 We're committed to continually improving SMART FARM to meet the evolving needs of our users. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to our dedicated support team.
 
