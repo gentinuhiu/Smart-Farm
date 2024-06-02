@@ -107,7 +107,7 @@ cd hackathon/examples
 
 <h4>How to Reach Us?</h4>
 <p>Open an issue in this repository or connect with us onsite.</p>
-## Support and Feedback
+### Support and Feedback
 
 We're committed to continually improving SMART FARM to meet the evolving needs of our users. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to our dedicated support team.
 
