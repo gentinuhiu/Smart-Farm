@@ -29,11 +29,7 @@ Prevention is key to minimizing plant loss and maximizing yield. SMART FARM prov
 
 Simply sign up for an account and start exploring the features tailored to meet your farm management needs. Our intuitive interface ensures a seamless user experience, enabling you to make informed decisions and take proactive measures to enhance your farm's performance.
 
-## Support and Feedback
 
-We're committed to continually improving SMART FARM to meet the evolving needs of our users. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to our dedicated support team.
-
-Thank you for choosing SMART FARM. Let's embark on a journey towards smarter, more sustainable farming practices together!
 
 
 <h2>Submission Details</h2>
@@ -111,3 +107,8 @@ cd hackathon/examples
 
 <h4>How to Reach Us?</h4>
 <p>Open an issue in this repository or connect with us onsite.</p>
+## Support and Feedback
+
+We're committed to continually improving SMART FARM to meet the evolving needs of our users. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to our dedicated support team.
+
+Thank you for choosing SMART FARM. Let's embark on a journey towards smarter, more sustainable farming practices together!
