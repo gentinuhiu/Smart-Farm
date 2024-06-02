@@ -1,7 +1,9 @@
 <h1>SMART FARM</h1>
-# SMART FARM
 
 Welcome to SMART FARM - your comprehensive web application designed to revolutionize farm management. Our platform is tailored to support agronomists, prospective investors, and large plantation owners by providing vital information necessary for maintaining farm health and maximizing productivity.
+
+### Description
+Our web application allows agronomists or large plantation owners to monitor their fields using CO2, Temperature and Light sensors. The data gathered from the sensors will be fed to the AI Model so it can generate a report accordingly. If the AI Model detects that the environment in the closed farm has been pretty unhealthy recently, it will suggest that you scan the plants because there is a possibility that the plants are in the early stages of some disease due to bad the bad environment. Our app offers the option to scan plants and generate a report about the plant's disease and recommendations on how to further prevent the spreading of the disease. 
 
 ## Key Features
 
@@ -26,12 +28,6 @@ Prevention is key to minimizing plant loss and maximizing yield. SMART FARM prov
 - **Actionable Guidance**: Receive personalized recommendations and best practices tailored to your farm's unique needs. Our platform empowers you with actionable insights to prevent plant loss and optimize productivity.
 
 ## How to Use
-
-Simply sign up for an account and start exploring the features tailored to meet your farm management needs. Our intuitive interface ensures a seamless user experience, enabling you to make informed decisions and take proactive measures to enhance your farm's performance.
-
-
-
-
 <h2>Submission Details</h2>
 
 
