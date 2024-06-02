@@ -3,7 +3,7 @@
 Welcome to SMART FARM - your comprehensive web application designed to revolutionize farm management. Our platform is tailored to support agronomists, prospective investors, and large plantation owners by providing vital information necessary for maintaining farm health and maximizing productivity.
 
 ### Description
-Our web application allows agronomists or large plantation owners to monitor their fields using CO2, Temperature and Light sensors. The data gathered from the sensors will be fed to the AI Model so it can generate a report accordingly. If the AI Model detects that the environment in the closed farm has been pretty unhealthy recently, it will suggest that you scan the plants because there is a possibility that the plants are in the early stages of some disease due to bad the bad environment. Our app offers the option to scan plants and generate a report about the plant's disease and recommendations on how to further prevent the spreading of the disease. 
+Our web application allows agronomists or large plantation owners to monitor their fields using CO2, Temperature and Light sensors. The data gathered from the sensors will be fed to the AI Model so it can generate a report accordingly. If the AI Model detects that the environment in the closed farm has been pretty unhealthy recently, it will suggest that you scan the plants because there is a possibility that the plants are in the early stages of some disease due to the bad environment. Our app offers the option to scan plants and generate a report about the plant's disease and recommendations on how to further prevent the spreading of the disease. 
 
 ## Key Features
 
@@ -28,19 +28,13 @@ Prevention is key to minimizing plant loss and maximizing yield. SMART FARM prov
 - **Actionable Guidance**: Receive personalized recommendations and best practices tailored to your farm's unique needs. Our platform empowers you with actionable insights to prevent plant loss and optimize productivity.
 
 ## How to Use
-<h2>Submission Details</h2>
-
-
-
 <h3>Running the Example</h3>
-
-<h4>Overview</h4>
-<p>The example serves as a reference to kickstart your journey with our topic. You're not obliged to run the example or adhere to the same approach. Feel free to utilize GenAI APIs instead of the local Llama model used in the example.</p>
 
 <h4>Preparation</h4>
 <ul>
   <li>Start by installing Python and Pip.</li>
   <li><strong>Windows specific</strong>: On Windows, you'll also need to install Visual Studio build tools with CMAKE support (refer to the picture) to run the local Llama model.</li>
+  
 </ul>
 
 <h4>Virtual Environment</h4>
@@ -50,17 +44,15 @@ Prevention is key to minimizing plant loss and maximizing yield. SMART FARM prov
 <p>Install the required Python packages:</p>
 <pre><code>pip install llama-cpp-python
 pip install HomeAssistant-API
-pip install notebook
-pip install ipympl # (for plotting)
+pip install ipympl
+pip install tensorflow
+pip install opencv-python
+pip install Pillow
 </code></pre>
 
-<h4>Cloning this Repository</h4>
-<p>Clone this git repo:</p>
-<pre><code>git clone https://github.com/Infineon/hackathon
-cd hackathon/examples
-</code></pre>
 
 <h4>Accessing Home Assistant Instance</h4>
+<p>* If you want to change the sensors you can use Home Assistant</p>
 <p>API token for accessing our Home Assistant instance:</p>
 <pre><code>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIzMGY5NTZmYWQxMTM0YzJiYWVkMmNmMDgxMTk2NmUyNSIsImlhdCI6MTcxNzI0MzA0MywiZXhwIjoyMDMyNjAzMDQzfQ.IOfRnnqDmJ3bA3LYg_sTUGdWFs5djNIIsOPEvSn9ZiE
 </code></pre>
@@ -76,7 +68,6 @@ cd hackathon/examples
 <p>Download the LLAMA model and type the following command to run the example:</p>
 <pre><code>jupyter notebook llama_example.ipynb
 </code></pre>
-<p>Note: This example serves as a basic workflow demonstration and might output incomplete results. Your task is to enhance it!</p>
 
 <h3>Useful Links</h3>
 <ul>
