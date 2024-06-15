@@ -1,8 +1,6 @@
 <h1>SMART FARM</h1>
 
 ### Hackathon Material
-- **[Project Slides](https://docs.google.com/presentation/d/1_cU-8dVBy1Oz_boJ4gmG538Owrfq4UID/edit?usp=sharing&ouid=114661143489025436638&rtpof=true&sd=true)**
-
 Welcome to SMART FARM - your comprehensive web application designed to revolutionize farm management. Our platform is tailored to support agronomists, prospective investors, and large plantation owners by providing vital information necessary for maintaining farm health and maximizing productivity.
 
 ### Description
@@ -37,7 +35,6 @@ Prevention is key to minimizing plant loss and maximizing yield. SMART FARM prov
 <ul>
   <li>Start by installing Python and Pip.</li>
   <li><strong>Windows specific</strong>: On Windows, you'll also need to install Visual Studio build tools with CMAKE support (refer to the picture) to run the local Llama model.</li>
-  
 </ul>
 
 <h4>Virtual Environment</h4>
@@ -52,7 +49,6 @@ pip install tensorflow
 pip install opencv-python
 pip install Pillow
 </code></pre>
-
 
 <h4>Accessing Home Assistant Instance</h4>
 <p>* If you want to change the sensors you can use Home Assistant</p>
@@ -85,5 +81,3 @@ pip install Pillow
   <li><a href="link">Stereo Microphone</a></li>
 </ul>
 <h6>For any additional questions, please feel free to ask us via e-mail gentinuhiu5@gmail.com</h6>
-<h3>Smart Farm</h3>
-<h3>Thank you for your attention</h3>
